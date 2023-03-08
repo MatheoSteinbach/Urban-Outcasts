@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: af2702ce3b44c8a4bacfdae148dc360c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - VertigoFLF
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4343e7d4c29733542a8c560bd2ff131b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
